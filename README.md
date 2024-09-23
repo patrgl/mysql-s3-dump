@@ -1,6 +1,6 @@
 <h1>Quick tool for dumping a MySQL database and automatically uploading it into an S3 bucket</h1>
 
-<b>Make sure you have mysql-client installed<b>
+<b>Make sure you have mysql-client installed</b>
 
 You must also set following ENV variables: 
 <li>MYSQLHOST</li>
