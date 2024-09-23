@@ -11,7 +11,7 @@ You must also set following ENV variables:
 <li>AWS_SECRET_ACCESS_KEY</li>
 <li>AWS_BUCKET_REGION</li>
 <li>AWS_BUCKET_NAME</li>
-
+<br>
 Afterwards, just hit em' with a python3 app.py or schedule this as a chronjob and boom, hassle-free database dumps. 
 
 Also, keep in mind after the .sql is uploaded to the S3 bucket, the local copy will automatically delete itself in order to not waste space :)
